@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #c724c0;
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    display: flex;
+    align-items: center;
+    height: 150px;
+    color: rgb(255, 255, 255);
+}
+svg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -10;
+}
