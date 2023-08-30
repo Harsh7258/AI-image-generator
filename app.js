@@ -1,4 +1,5 @@
-const API_KEY = "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";
+// generate API from openAI API refrence 
+const API_KEY = "your API";
 // API_KEY used one
 // to use image generator add new api key
 
